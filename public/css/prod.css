@@ -1,0 +1,187 @@
+.first-section section{
+    padding-top:25px ! important;
+}
+
+.tab-btn{
+  padding:5px 22px;
+  letter-spacing:1px;
+font-size:17px;
+font-weight:500;  
+color:#333333;
+} 
+.tab-btn.active{
+background:#333333;
+color:#ffffff;
+}
+/* 
+.tab-btn:hover{
+background:linear-gradient(to right, #07468e, #463cb5, #af2eed);
+color:#ffffff;
+border:1px solid #354cc7 ! important;
+} */
+
+
+.tab-btn {
+  border: 1px solid #000 ! important;
+  line-height: 40px;
+  display: inline-block;
+  padding: 0 25px;
+  position: relative;
+  overflow: hidden;
+  z-index: 9;
+  background: transparent;
+  letter-spacing: 1px;
+  cursor: pointer; 
+}
+.tab-btn::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: -15px;
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  background: linear-gradient(to bottom right, #04478c, #af2eed, #af2eed);
+  z-index: -1;
+}
+
+@keyframes tabbtndrop {
+  0% {
+    top: -15px;
+  }
+  60% {
+    height: 15px;
+    border-radius: 50%;
+    left: 50%;
+    width: 15px;
+    top: calc(100% - 10px);
+  }
+  80% {
+    top: calc(100% - 5px);
+    width: 100%;
+    left: 0;
+    border-radius: 0;
+    opacity: 1;
+  }
+  100% {
+    width: 100%;
+    left: 0;
+    border-radius: 0;
+    bottom: 0;
+    top: initial;
+    height: 30px;
+    animation-delay: 120s;
+    opacity: 0;
+  }
+}
+.tab-btn:hover::before {
+  animation: tabbtndrop 0.5s linear;
+}
+.tab-btn::after {
+  content: "";
+  position: absolute;
+  left: 0%;
+  bottom: 0px;
+  height: 0%;
+  width: 100%;
+  border-radius: 0%;
+  background: linear-gradient(to bottom right, #268CD6dd, #af2eed, #af2eed);
+  z-index: -1;
+}
+.tab-btn:hover::after {
+  height: 100%;
+  transition: all 0.4s linear;
+  transition-delay: 0.5s;
+}
+.tab-btn:hover {
+  color: #fff ! important;
+  transition: all 0.4s linear;
+  transition-delay: 0.5s;
+  border: 1px solid #00000000 ! important;
+
+}
+ 
+
+#productsTab .nav-link{
+  color:#555555;
+  font-weight:400;
+  font-size:18px;
+  padding-right:10px;
+  padding-left:10px;
+}
+#productsTab .active{
+  color:#111111;
+  font-weight:medium;
+}
+.media-container {
+  position: relative;
+  height: calc(100vh - 300px); /* Or any fixed height you want */
+  overflow: hidden;
+}
+
+.media-slide-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+
+.media-overlay-tab {
+  background:#99999999;
+  backdrop-filter:blur(6px);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 2;
+}
+
+
+.feature{
+  opacity:1;
+  display:block;
+  margin-right: 85px;
+  margin-top: -12px;
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  background: transparent;
+  box-shadow: inset 10px 10px 10px rgba(0, 0, 0, 0.5), 15px 25px 10px rgba(0, 0, 0, 0.1), 15px 20px 2px rgba(0, 0, 0, 0.05), inset -10px -10px 15px rgba(255, 255, 255, 0.9);
+  animation: drop 0.9s infinite alternate ease-in-out;
+}
+
+@keyframes drop {
+  from {
+    border-radius: 38% 62% 46% 54% / 46% 51% 49% 54%;
+  }
+
+  to {
+    border-radius: 50%;
+  }
+}
+
+.animated-hr {
+  border: none;              /* remove default border */
+  height: 2px;               /* line thickness */
+  border-radius: 1px;        /* rounded edges */
+  background: linear-gradient(
+    90deg,
+    #07468c,
+    #ad2eed,
+    #07468c
+  );
+  background-size: 200% 100%;
+  animation: moveRight 2s linear infinite;
+margin-top: -140px;
+    position: relative;
+    margin-bottom: 150px;
+  }
+
+@keyframes moveRight {
+  0% {
+    background-position: 0% 0%;
+  }
+  100% {
+    background-position: 100% 0%;
+  }
+}

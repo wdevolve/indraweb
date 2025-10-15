@@ -1,0 +1,214 @@
+
+
+.sections{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+.section {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  max-width: 1390px;
+  width:100%;
+}
+
+.water-data {
+  width: auto;
+  /* height: 500px; */
+height:calc(100vh - 200px);
+  position: sticky;
+  top: 200px;
+  margin-top:200px;
+  transition: opacity 0.2s ease-in-out;
+}
+@media only screen and (max-width:760px){
+  .water-data{display:none !important;}
+}
+.sections {
+  min-height: 100vh;
+}
+
+
+.media-container {
+  position: relative;
+  height: calc(100vh - 300px); /* Or any fixed height you want */
+  overflow: hidden;
+}
+
+.media-slide-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: grayscale(100);
+  transition:all 0.3s ease;
+}
+
+.media-container:hover .media-slide-image {
+  filter: grayscale(0);
+  transition:all 0.5s ease; 
+}
+
+.media-overlay {
+  background:#ffffffde;
+  backdrop-filter:blur(6px);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 2;
+}
+
+
+.about-media-container {
+  position: relative;
+  height: calc(100vh - 300px); /* Or any fixed height you want */
+  overflow: hidden;
+}
+
+.about-media-slide-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+
+.about-media-overlay-tab {
+  background:#99999999;
+  backdrop-filter:blur(6px);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 2;
+}
+
+/*Team members starts*/
+.team {
+  position: relative;
+  overflow: hidden;
+  height: 100%; /* Ensure col takes full height */
+}
+
+.team-text {
+  position: absolute;
+  bottom: 0;
+  left: 10px;
+  width: calc(100% - 20px);
+  height: 80px;
+  background: #fff;
+  padding: 1rem;
+  box-sizing: border-box;
+  transition: height 0.3s ease-in-out;
+  z-index: 2;
+  overflow: hidden;
+}
+
+.team-desc {
+  opacity: 0;
+  max-height: 0;
+  overflow: hidden;
+  transition: all 0.3s ease-in-out;
+  margin-top: 0.5rem;
+}
+
+.team:hover .team-text {
+  height: 100%;
+}
+
+.team:hover .team-desc {
+  opacity: 1;
+  max-height: 500px; /* Just ensure it’s tall enough */
+}
+/*Team members ends*/
+
+/*Timeline starts*/
+.timeline-container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  padding: 100px 20px;
+  padding-top:0px;
+}
+
+.timeline-line-wrapper {
+  position: relative;
+  width: 10px;
+  margin-right: -6px;
+}
+
+
+.timeline-line-track {
+  position: absolute;
+  width: 10px;
+  top: 0;
+  bottom: 0;
+background: linear-gradient(to bottom, #ddd 0%, #ddd 40%, #ddd 70%, #ffffff00 100%);
+  z-index: 1;
+  border-radius:75px;
+}
+
+.timeline-line-progress {
+  position: absolute;
+  width: 10px;
+  top: 0;
+  left: 0;
+background: linear-gradient(to bottom, #07468e 50%,#af2eed 70%, #ffffff00 100%);
+  z-index: 2;
+  height: 0;
+  transition: height 0.1s ease-out;
+  border-radius:75px;
+}
+
+.timeline-dot {
+  position: absolute;
+  left: -3px;
+  width: 8px;
+  height: 8px;
+  background: white;
+  border: 0px solid #b02ded;
+  border-radius: 50%;
+  z-index: 3;
+}
+
+.timeline-entries {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.timeline-entry {
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  padding-left: 40px; /* Space for dot/line */
+  margin-bottom: 50px;
+}
+
+.timeline-marker {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  /* background: #ddd; */
+}
+
+
+.timeline-entry:last-child .timeline-marker {
+  height: calc(100% - 7px); /* Prevents extra line below last dot */
+}
+
+
+.timeline-year {
+  font-weight: bold;
+  font-size: 1.25rem;
+  color: #0d6efd;
+}
+
+.timeline-description {
+  font-size: 1rem;
+  color: #555;
+}
+/*Timelone ends */
