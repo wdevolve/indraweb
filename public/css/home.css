@@ -317,19 +317,19 @@ height:250px ! important;
 }
 
 .unlock-perks .card.perk1{
-    background-image: url(/images/unlock-perks-bg1.jpg);
+    background-image: url(/images/unlock-perks-bg1.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
 }
 .unlock-perks .card.perk2{
-    background-image: url(/images/unlock-perks-bg2.jpg);
+    background-image: url(/images/unlock-perks-bg2.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
 }
 .unlock-perks .card.perk3{
-    background-image: url(/images/unlock-perks-bg3.jpg);
+    background-image: url(/images/unlock-perks-bg3.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -339,8 +339,8 @@ height:250px ! important;
  .full-landing-image {
   /* background-size: 600% 600%; */
   animation: aquaFlow 20s ease infinite ! important;
-  /* background: url('/images/hero-background.jpg') no-repeat center; */
-background: url('/images/others/pexels-photo-30856424.jpg') no-repeat center;
+  /* background: url('/images/hero-background.webp') no-repeat center; */
+background: url('/images/others/pexels-photo-30856424.webp') no-repeat center;
   background-size: cover;
   background-attachment:fixed;
   

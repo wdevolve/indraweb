@@ -12,7 +12,7 @@ export default function IndTreatmentSystems() {
     <section className="position-relative overflow-hidden bg-grad-blue-gray pt-4 pb-5" style={{ position: 'relative' }}>
     {/* <div
       style={{
-        backgroundImage: 'url(/images/indra-competitive-moat.jpg)',
+        backgroundImage: 'url(/images/indra-competitive-moat.webp)',
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         opacity: 0.1, 

@@ -175,7 +175,7 @@ export default function IndHeroSub({image, h1, intro, children, grayValue, grayT
                 </div>
 
                 {/* Entry Content */}
-                <div className="row anim-slide-right" style={{zIndex:'999999'}}>
+                <div className="row w-100 anim-slide-right" style={{zIndex:'999999',marginTop:'-20px'}}>
                   <div className="col-md-2 d-flex justify-content-center align-items-start">
                     <img
                       src={`/images/icons/${item.icon}`}
@@ -185,8 +185,8 @@ export default function IndHeroSub({image, h1, intro, children, grayValue, grayT
                         width: '70px',
                         height: '70px',
                         objectFit: 'contain',
-                        marginLeft:'-150px',
-                        marginTop:'-30px',
+                        // marginLeft:'-150px',
+                        marginTop:'0px',
                         zIndex:'999999'
                       }}
                     />

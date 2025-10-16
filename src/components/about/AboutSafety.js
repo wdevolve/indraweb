@@ -20,7 +20,7 @@ export default function AboutSafety() {
             <div className="col-md-12">
              
               <Image
-                src={`/images/products/product-safety.jpg`}
+                src={`/images/products/product-safety.webp`}
                 alt="Media coverage"
                 width={0}
                 height={0}

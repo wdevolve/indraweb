@@ -42,7 +42,7 @@ export default function IndHero() {
        {/* <section
       className="position-relative text-white text-center d-flex align-items-end justify-content-center py-5 full-landing-image"
       style={{
-backgroundImage: `url('/images/industries-bg.jpg')`,backgroundRepeat:'no-repeat',backgroundSize:'cover',minHeight:'calc(100vh - 0px)', backgroundPosition:'center center',
+backgroundImage: `url('/images/industries-bg.webp')`,backgroundRepeat:'no-repeat',backgroundSize:'cover',minHeight:'calc(100vh - 0px)', backgroundPosition:'center center',
   }}
     > */}
 
@@ -63,7 +63,7 @@ backgroundImage: `url('/images/industries-bg.jpg')`,backgroundRepeat:'no-repeat'
           left: 0,
         }}
       >
-        <source src="/videos/hero-video.mp4" type="video/mp4" />
+        <source src="/videos/industries-bg-video.mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
 
@@ -81,7 +81,7 @@ backgroundImage: `url('/images/industries-bg.jpg')`,backgroundRepeat:'no-repeat'
       {/* Centered Content */}
       <div className="container" style={{ position: 'relative', zIndex: 1}}>
         <div className="float-start text-start anim-fade-left" style={{maxWidth:'800px' }}>
-          <h1 className="display-6 fw-medium text-start">4 billion people, almost two-thirds of the world’s population, experience severe water scarcity
+          <h1 className="display-6 fw-medium text-start">Industries we cater to
 </h1>
           <Link href="/contact"><button className="btn btn-outline-light mt-4">Save Water</button></Link>
         </div>
@@ -101,7 +101,7 @@ backgroundImage: `url('/images/industries-bg.jpg')`,backgroundRepeat:'no-repeat'
                           <p className="text-end text-white">Lorem Ipsum</p>
                         </div>
                         <Image
-                          src={`/images/industries-bg.jpg`}
+                          src={`/images/industries-bg.webp`}
                           alt="Media coverage"
                           width={0}
                           height={0}

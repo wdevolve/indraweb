@@ -9,21 +9,21 @@ export default function AboutTeam2() {
     {
       n: 'Ranganath N. K.',
       d: 'Chairperson & Board Member ',
-      i: '/images/board-1.jpg',
+      i: '/images/board-1.webp',
       l: 'https://in.linkedin.com/in/ranganath-n-k',
       m: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. It is a long established fact that a reader will be distracted.',
     },
     {
       n: 'Amrit Om Nayak',
       d: 'Co-founder & CEO ',
-      i: '/images/board-2.jpg',
+      i: '/images/board-2.webp',
       l: 'https://in.linkedin.com/in/amritomnayak',
       m: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. It is a long established fact that a reader will be distracted.',
     },
     {
       n: 'Krunal Patel',
       d: 'Co-founder & COO',
-      i: '/images/board-3.jpg',
+      i: '/images/board-3.webp',
       l: 'https://in.linkedin.com/in/krunalnpatel',
       m: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. It is a long established fact that a reader will be distracted.',
     }
@@ -34,14 +34,14 @@ export default function AboutTeam2() {
     {
       n: 'Helge Daebel',
       d: 'Board Member',
-      i: '/images/board-4.jpg',
+      i: '/images/board-4.webp',
       l: 'https://ch.linkedin.com/in/helgedaebel',
       m: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. It is a long established fact that a reader will be distracted.',
     },
     {
       n: 'Krishnakumar Natarajan',
       d: 'Board Member',
-      i: '/images/board-5.jpg',
+      i: '/images/board-5.webp',
       l: 'https://in.linkedin.com/in/krishnakumarnatarajan',
       m: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. It is a long established fact that a reader will be distracted.',
     }
@@ -52,21 +52,21 @@ export default function AboutTeam2() {
     {
       n: 'Samir Shah',
       d: 'Board Advisor',
-      i: '/images/sameer.avif',
+      i: '/images/sameer.webp',
       l: 'https://in.linkedin.com/in/samir-shah-09a76547',
       m: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. It is a long established fact that a reader will be distracted.',
     },
      {
       n: 'Vivek Shukla',
       d: 'Board Advisor',
-      i: '/images/vivek-shukla.png',
+      i: '/images/vivek-shukla.webp',
       l: 'https://my.linkedin.com/in/vivekshukla',
       m: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. It is a long established fact that a reader will be distracted.',
     },
     {
       n: 'Dr. Gogate',
       d: 'Board Advisor',
-      i: '/images/gogate.jpg',
+      i: '/images/gogate.webp',
       l: 'https://in.linkedin.com/in/parag-gogate-69446834',
       m: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. It is a long established fact that a reader will be distracted.',
     }
@@ -109,12 +109,12 @@ export default function AboutTeam2() {
   height={0}
   className="img-fluid w-100 anim-fade-up"
   style={{
-    marginBottom: '-350px',
+    marginBottom: '-510px',
     width: '100%',
-    height: '350px',
+    height: '510px',
     objectFit: 'cover'
   }}
-/>
+/> 
 
           <div className="bg-light w-100 rounded-3" style={{ height: '375px', paddingBottom:'230px' }}></div>
           <div className="team-text rounded-bottom-3 bg-white">
@@ -140,9 +140,9 @@ export default function AboutTeam2() {
   height={0}
   className="img-fluid w-100 anim-fade-up"
   style={{
-    marginBottom: '-350px',
+    marginBottom: '-510px',
     width: '100%',
-    height: '350px',
+    height: '510px',
     objectFit: 'cover'
   }}
 />
@@ -179,9 +179,14 @@ export default function AboutTeam2() {
             src={member.i}
             alt={member.n}
             width={300}
-            height={200}
+            height={300}
             className="img-fluid w-100 h-auto anim-fade-up"
-            style={{marginBottom:'-350px'}}
+            style={{
+                  marginBottom: '-350px',
+    width: '100%',
+    height: '350px',
+    objectFit: 'cover'
+            }}
           />
           <div className="bg-light w-100 rounded-3" style={{ height: '375px', paddingBottom:'230px' }}></div>
           <div className="team-text rounded-bottom-3 bg-white">

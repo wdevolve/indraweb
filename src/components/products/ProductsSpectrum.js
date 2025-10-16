@@ -37,7 +37,7 @@ export default function ProductsEvolution() {
             
             {/* Top Image */}
             <img
-              src={`/images/icons/industry-challenges.png`}
+              src={`/images/icons/plant-telemetry-data.webp`}
               alt="Benefit Icon"
               className="mb-3"
               style={{
@@ -48,7 +48,7 @@ export default function ProductsEvolution() {
             />
 
             {/* Bottom Description */}
-            <p className="fs-5 text-dark mb-0">Lorem ipsum lorem ipsum.</p>
+            <p className="fs-5 text-dark mb-0">Plant Telemetry Data</p>
           </div>
         </div>
                 <div className="col">
@@ -56,7 +56,7 @@ export default function ProductsEvolution() {
             
             {/* Top Image */}
             <img
-              src={`/images/icons/industry-challenges.png`}
+              src={`/images/icons/compliance-monitoring.webp`}
               alt="Benefit Icon"
               className="mb-3"
               style={{
@@ -67,7 +67,7 @@ export default function ProductsEvolution() {
             />
 
             {/* Bottom Description */}
-            <p className="fs-5 text-dark mb-0">Lorem ipsum lorem ipsum.</p>
+            <p className="fs-5 text-dark mb-0">Compliance Monitoring</p>
           </div>
         </div>
                 <div className="col">
@@ -75,7 +75,7 @@ export default function ProductsEvolution() {
             
             {/* Top Image */}
             <img
-              src={`/images/icons/industry-challenges.png`}
+              src={`/images/icons/daily-reporting.webp`}
               alt="Benefit Icon"
               className="mb-3"
               style={{
@@ -86,7 +86,7 @@ export default function ProductsEvolution() {
             />
 
             {/* Bottom Description */}
-            <p className="fs-5 text-dark mb-0">Lorem ipsum lorem ipsum.</p>
+            <p className="fs-5 text-dark mb-0">Daily Reporting</p>
           </div>
         </div>
                 <div className="col">
@@ -94,7 +94,7 @@ export default function ProductsEvolution() {
             
             {/* Top Image */}
             <img
-              src={`/images/icons/industry-challenges.png`}
+              src={`/images/icons/ai-enabled-analytics.webp`}
               alt="Benefit Icon"
               className="mb-3"
               style={{
@@ -105,7 +105,7 @@ export default function ProductsEvolution() {
             />
 
             {/* Bottom Description */}
-            <p className="fs-5 text-dark mb-0">Lorem ipsum lorem ipsum.</p>
+            <p className="fs-5 text-dark mb-0">AI-Enabled Analytics</p>
           </div>
         </div>
     </div>
@@ -114,9 +114,9 @@ export default function ProductsEvolution() {
           </div>
           <div className="col-md-5 ps-md-5 anim-fade-right">
 
-            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/products/spectrum-1.jpg`} alt={`Water Treatment`} className="Image-fluid mb- rounded-5 shadow" />
+            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/products/spectrum-1.webp`} alt={`Water Treatment`} className="Image-fluid mb- rounded-5 shadow" />
 
-            <Image height={0} width={0} style={{ width:'75%', height:'auto', marginTop:'-175px', zIndex:'999', position:'relative' }} src={`/images/products/spectrum-2.jpg`} alt={`Water Treatment`} className="Image-fluid mb-3 rounded-5 shadow float-end" />
+            <Image height={0} width={0} style={{ width:'75%', height:'auto', marginTop:'-175px', zIndex:'999', position:'relative' }} src={`/images/products/spectrum-2.webp`} alt={`Water Treatment`} className="Image-fluid mb-3 rounded-5 shadow float-end" />
             
             
 

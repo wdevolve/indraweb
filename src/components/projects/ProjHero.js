@@ -42,7 +42,7 @@ export default function ProjHero() {
        <section
       className="position-relative text-white text-center d-flex align-items-end justify-content-center py-5 full-landing-image"
       style={{
-backgroundImage: `url('/images/projects-bg.jpg')`,backgroundRepeat:'no-repeat',backgroundSize:'cover',minHeight:'calc(100vh - 0px)', backgroundPosition:'center center',
+backgroundImage: `url('/images/projects-bg.webp')`,backgroundRepeat:'no-repeat',backgroundSize:'cover',minHeight:'calc(100vh - 0px)', backgroundPosition:'center center',
   }}
     >
       {/* Background Video */}
@@ -99,7 +99,7 @@ backgroundImage: `url('/images/projects-bg.jpg')`,backgroundRepeat:'no-repeat',b
                           <p className="text-end text-white">Lorem Ipsum</p>
                         </div>
                         <Image
-                          src={`/images/projects-bg.jpg`}
+                          src={`/images/projects-bg.webp`}
                           alt="Media coverage"
                           width={0}
                           height={0}

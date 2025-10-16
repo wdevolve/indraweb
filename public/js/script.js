@@ -101,23 +101,23 @@ function startCounter($el) {
   const $image = $(".product-image");
 
 //  var images = [
-//   "/images/image-stage-1.png",
-//   "/images/image-stage-2.png",
-//   "/images/image-stage-3.png",
-//   "/images/image-stage-4.png",
-//   "/images/products/product1.png",
+//   "/images/image-stage-1.webp",
+//   "/images/image-stage-2.webp",
+//   "/images/image-stage-3.webp",
+//   "/images/image-stage-4.webp",
+//   "/images/products/product1.webp",
 // ];
 
 var images = [
-  "/images/icons/plug-play.png",
-  "/images/icons/savings.png",
-  "/images/icons/less-space.png",
-  "/images/icons/operational-costs.png",
-  "/images/icons/water-recovery.png",
-    "/images/icons/zero-chemicals.png",
-  "/images/icons/pcb.png",
-  "/images/icons/modular-capacity.png",
-  "/images/icons/long-life.png",
+  "/images/icons/plug-play.webp",
+  "/images/icons/savings.webp",
+  "/images/icons/less-space.webp",
+  "/images/icons/operational-costs.webp",
+  "/images/icons/water-recovery.webp",
+    "/images/icons/zero-chemicals.webp",
+  "/images/icons/pcb.webp",
+  "/images/icons/modular-capacity.webp",
+  "/images/icons/long-life.webp",
 ];
 
   let currentSectionIndex = -1;

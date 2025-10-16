@@ -4,68 +4,68 @@ import Image from 'next/image';
 import { useState, useEffect, useRef } from 'react';
 
 // var images = [
-//   "/images/image-stage-1.png",
-//   "/images/image-stage-2.png",
-//   "/images/image-stage-3.png",
-//   "/images/image-stage-4.png",
-//   "/images/product1.png",
+//   "/images/image-stage-1.webp",
+//   "/images/image-stage-2.webp",
+//   "/images/image-stage-3.webp",
+//   "/images/image-stage-4.webp",
+//   "/images/product1.webp",
 // ];
 
 var images = [
-  "/images/icons/plug-play.png",
-  "/images/icons/savings.png",
-  "/images/icons/less-space.png",
-  "/images/icons/operational-costs.png",
-  "/images/icons/water-recovery.png",
-    "/images/icons/zero-chemicals.png",
-  "/images/icons/pcb.png",
-  "/images/icons/modular-capacity.png",
-  "/images/icons/long-life.png",
+  "/images/icons/plug-play.webp",
+  "/images/icons/savings.webp",
+  "/images/icons/less-space.webp",
+  "/images/icons/operational-costs.webp",
+  "/images/icons/water-recovery.webp",
+    "/images/icons/zero-chemicals.webp",
+  "/images/icons/pcb.webp",
+  "/images/icons/modular-capacity.webp",
+  "/images/icons/long-life.webp",
 ];
 
 const sectionContent = [
   {
-    icon: "/images/icons/plug-play.png",
+    icon: "/images/icons/plug-play.webp",
     title: "Plug and play",
     text: "Plug-and-play skids. Stack like LEGO. Scale from pilots to full scale plants.",
   },
   {
-    icon:"/images/icons/savings.png",
+    icon:"/images/icons/savings.webp",
     title: "35% savings on Lifecycle costs",
     text: "Treatment in seconds, continuous flow. Big capacity, tiny footprint.",
   },
   {
-    icon:"/images/icons/less-space.png",
+    icon:"/images/icons/less-space.webp",
     title: "90% less space requirement",
     text: "No chemical dosing. No added toxicity in sludge. Safer for people, processes, planet.",
   },
   {
-    icon:"/images/icons/operational-costs.png",
+    icon:"/images/icons/operational-costs.webp",
     title: "40% savings on operational costs",
     text: "Close the loop. More water back, less wasted. Enabling circular water economies.",
   },
   {
-    icon:"/images/icons/water-recovery.png",
+    icon:"/images/icons/water-recovery.webp",
     title: "up to 99% Water Recovery",
     text: "Seamless integration with older & newer plants and treatment technologies. More performance, more capacity.",
   },
   {
-    icon:"/images/icons/zero-chemicals.png",
+    icon:"/images/icons/zero-chemicals.webp",
     title: "Zero chemicals in Primary Treatment",
     text: "Seamless integration with older & newer plants and treatment technologies. More performance, more capacity.",
   },
   {
-    icon:"/images/icons/modular-capacity.png",
+    icon:"/images/icons/modular-capacity.webp",
     title: "Meets PCB & STATE norms",
     text: "Seamless integration with older & newer plants and treatment technologies. More performance, more capacity.",
   },
   {
-    icon:"/images/icons/pcb.png",
+    icon:"/images/icons/pcb.webp",
     title: "Modular Capacity: 5-2000 KLD",
     text: "Seamless integration with older & newer plants and treatment technologies. More performance, more capacity.",
   },
   {
-    icon:"/images/icons/long-life.png",
+    icon:"/images/icons/long-life.webp",
     title: "Long life-span 10+ years",
     text: "Seamless integration with older & newer plants and treatment technologies. More performance, more capacity.",
   },        
@@ -131,7 +131,7 @@ Answering today’s water challenge. Advancing tomorrow’s water certainty.
 
           <div className="col-md-6 py-5 text-center only-desk">
             <Image
-              src="/images/plug-play.png"
+              src="/images/icons/plug-play.webp"
               alt="Product Feature"
               width={0}
               height={0}

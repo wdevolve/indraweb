@@ -42,7 +42,7 @@ export default function AboutHero() {
 //     <section
 //       className="position-relative text-white text-center d-flex align-items-end justify-content-center py-5 full-landing-image"
 //       style={{
-// backgroundImage: `url('/images/pexels-bithinrajxlr8-2763927.jpg')`,backgroundRepeat:'no-repeat',backgroundSize:'cover',minHeight:'calc(100vh - 0px)', backgroundPosition:'center center',
+// backgroundImage: `url('/images/pexels-bithinrajxlr8-2763927.webp')`,backgroundRepeat:'no-repeat',backgroundSize:'cover',minHeight:'calc(100vh - 0px)', backgroundPosition:'center center',
 //   }}
 //     >
 <section

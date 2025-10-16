@@ -26,7 +26,7 @@ export default function AboutMediaCoverage() {
                     <div className="border-grad p-1 rounded-3">
                       <div className="media-container rounded-3 shadow-sm">
                         <Image
-                          src={`/images/media-coverage-1.jpg`}
+                          src={`/images/media-coverage-1.webp`}
                           alt="Media coverage"
                           width={0}
                           height={0}
@@ -50,7 +50,7 @@ export default function AboutMediaCoverage() {
                     <div className="border-grad p-1 rounded-3">
                       <div className="media-container rounded-3 shadow-sm">
                         <Image
-                          src={`/images/media-coverage-2.jpg`}
+                          src={`/images/media-coverage-2.webp`}
                           alt="Media coverage"
                           width={0}
                           height={0}
@@ -73,7 +73,7 @@ export default function AboutMediaCoverage() {
                     <div className="border-grad p-1 rounded-3">
                       <div className="media-container rounded-3 shadow-sm">
                         <Image
-                          src={`/images/media-coverage-3.jpg`}
+                          src={`/images/media-coverage-3.webp`}
                           alt="Media coverage"
                           width={0}
                           height={0}
@@ -120,49 +120,49 @@ export default function AboutMediaCoverage() {
 
           <div className="row row-cols-2 row-cols-sm-3 row-cols-md-6 g-4">
             <div className="col d-flex align-items-center">
-            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/others/featured-1.png`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
+            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/others/featured-1.webp`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
             </div>
 
             <div className="col d-flex align-items-center">
-            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/others/featured-2.png`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
+            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/others/featured-2.webp`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
             </div>
 
             <div className="col d-flex align-items-center">
-            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/others/featured-3.png`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
-            </div>
-
-
-            <div className="col d-flex align-items-center">
-            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/others/featured-4.png`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
+            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/others/featured-3.webp`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
             </div>
 
 
             <div className="col d-flex align-items-center">
-            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/others/featured-5.png`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
+            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/others/featured-4.webp`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
             </div>
 
 
             <div className="col d-flex align-items-center">
-            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/others/featured-6.png`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
+            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/others/featured-5.webp`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
             </div>
 
 
             <div className="col d-flex align-items-center">
-            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/others/featured-7.png`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
+            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/others/featured-6.webp`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
+            </div>
+
+
+            <div className="col d-flex align-items-center">
+            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/others/featured-7.webp`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
             </div>
 
             <div className="col d-flex align-items-center">
-            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/others/featured-8.png`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
+            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/others/featured-8.webp`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
           </div>     
 
             <div className="col d-flex align-items-center">
-            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/others/featured-9.png`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
+            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/others/featured-9.webp`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
           </div>
             <div className="col d-flex align-items-center">
-            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/others/featured-10.png`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
+            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/others/featured-10.webp`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
           </div>
             <div className="col d-flex align-items-center">
-            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/others/featured-11.png`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
+            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/others/featured-11.webp`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
           </div>
                   </div>
           </div>
@@ -199,39 +199,39 @@ export default function AboutMediaCoverage() {
 
           <div className="row row-cols-2 row-cols-sm-3 row-cols-md-4 g-4">
             <div className="col d-flex align-items-center">
-            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/products/supported-1.png`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
+            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/products/supported-1.webp`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
             </div>
 
             <div className="col d-flex align-items-center">
-            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/products/supported-2.png`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
+            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/products/supported-2.webp`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
             </div>
 
             <div className="col d-flex align-items-center">
-            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/products/supported-3.png`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
-            </div>
-
-
-            <div className="col d-flex align-items-center">
-            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/products/supported-4.png`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
+            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/products/supported-3.webp`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
             </div>
 
 
             <div className="col d-flex align-items-center">
-            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/products/supported-5.png`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
+            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/products/supported-4.webp`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
             </div>
 
 
             <div className="col d-flex align-items-center">
-            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/products/supported-6.png`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
+            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/products/supported-5.webp`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
             </div>
 
 
             <div className="col d-flex align-items-center">
-            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/products/supported-7.jpg`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
+            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/products/supported-6.webp`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
+            </div>
+
+
+            <div className="col d-flex align-items-center">
+            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/products/supported-7.webp`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
             </div>
 
             <div className="col d-flex align-items-center">
-            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/products/supported-8.png`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
+            <Image height={0} width={0} style={{ width:'75%', height:'auto' }} src={`/images/products/supported-8.webp`} alt={`Water Treatment`} className="Image-fluid anim-zoom" />
           </div>     
         </div>
           </div>

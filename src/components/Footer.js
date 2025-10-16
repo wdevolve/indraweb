@@ -62,9 +62,9 @@ export default function Footer() {
 </div> */}
 
 <footer
-  className="py-5 full-landing-image"
+  className="pt-5 full-landing-image"
   style={{
-backgroundImage: `url('/images/pexels-bithinrajxlr8-2763927.jpg')`,backgroundRepeat:'no-repeat',backgroundSize:'cover',minHeight:'calc(100vh - 75px)', backgroundPosition:'center center',
+backgroundImage: `url('/images/contact-hero-bg.webp')`,backgroundRepeat:'no-repeat',backgroundSize:'cover',minHeight:'calc(100vh - 75px)', backgroundPosition:'center center',
   }}
 >
 
@@ -125,7 +125,7 @@ backgroundImage: `url('/images/pexels-bithinrajxlr8-2763927.jpg')`,backgroundRep
                           className="ms-auto float-end"
                   width={100}
                   height={60}
-                  src="/images/others/indian-flag.png"
+                  src="/images/others/indian-flag.webp"
                   alt="INDRA Water"
                   title="INDRA Water"
                   unoptimized
@@ -372,7 +372,7 @@ backgroundImage: `url('/images/pexels-bithinrajxlr8-2763927.jpg')`,backgroundRep
                   className="mx-auto my-2"
                   width={30}
                   height={21.2}
-                  src="https://evolvemediasolutions.in/wp-content/uploads/2023/09/Symbol-03-300x212.png"
+                  src="https://evolvemediasolutions.in/wp-content/uploads/2023/09/Symbol-03-300x212.webp"
                   alt="Evolve Media Solutions"
                   title="Evolve Media Solutions"
                   priority

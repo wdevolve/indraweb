@@ -20,7 +20,7 @@ export default function ProductsSafety() {
             <div className="col-md-6">
              
               <Image
-                src={`/images/products/product-safety.jpg`}
+                src={`/images/products/product-safety.webp`}
                 alt="Media coverage"
                 width={0}
                 height={0}
@@ -32,7 +32,7 @@ export default function ProductsSafety() {
               <div className="col-md-6">
              
               <Image
-                src={`/images/products/product-safety-2.jpg`}
+                src={`/images/products/product-safety-2.webp`}
                 alt="Media coverage"
                 width={0}
                 height={0}

@@ -6,76 +6,76 @@ export default function HomeClients() {
   // Client data
   const clients = [
     {
-     logo: '/images/clients/logo1.png',
+     logo: '/images/clients/logo1.webp',
     },
     {
-     logo: '/images/clients/logo2.png',
+     logo: '/images/clients/logo2.webp',
     },
     {
-     logo: '/images/clients/logo3.png',
+     logo: '/images/clients/logo3.webp',
     },
     {
-     logo: '/images/clients/logo4.png',
+     logo: '/images/clients/logo4.webp',
     },
     {
-     logo: '/images/clients/logo5.png',
+     logo: '/images/clients/logo5.webp',
     },
     {
-     logo: '/images/clients/logo6.png',
+     logo: '/images/clients/logo6.webp',
     },
     {
-     logo: '/images/clients/logo7.png',
+     logo: '/images/clients/logo7.webp',
     },
     {
-     logo: '/images/clients/logo8.png',
+     logo: '/images/clients/logo8.webp',
     },
     {
-     logo: '/images/clients/logo9.png',
+     logo: '/images/clients/logo9.webp',
     },
     {
-     logo: '/images/clients/logo10.png',
+     logo: '/images/clients/logo10.webp',
     },
     {
-     logo: '/images/clients/logo11.png',
+     logo: '/images/clients/logo11.webp',
     },
     {
-     logo: '/images/clients/logo12.png',
+     logo: '/images/clients/logo12.webp',
     },
     {
-     logo: '/images/clients/logo13.png',
+     logo: '/images/clients/logo13.webp',
     },
     {
-     logo: '/images/clients/logo14.png',
+     logo: '/images/clients/logo14.webp',
     },
     {
-     logo: '/images/clients/logo15.png',
+     logo: '/images/clients/logo15.webp',
     },
     {
-     logo: '/images/clients/logo16.png',
+     logo: '/images/clients/logo16.webp',
     },
     {
-     logo: '/images/clients/logo17.png',
+     logo: '/images/clients/logo17.webp',
     },
     {
-     logo: '/images/clients/logo18.png',
+     logo: '/images/clients/logo18.webp',
     },
     {
-     logo: '/images/clients/logo19.png',
+     logo: '/images/clients/logo19.webp',
     },
     {
-     logo: '/images/clients/logo20.png',
+     logo: '/images/clients/logo20.webp',
     },
     {
-     logo: '/images/clients/logo21.png',
+     logo: '/images/clients/logo21.webp',
     },
     {
-     logo: '/images/clients/logo22.png',
+     logo: '/images/clients/logo22.webp',
     },
     {
-     logo: '/images/clients/logo23.png',
+     logo: '/images/clients/logo23.webp',
     },
     {
-     logo: '/images/clients/logo24.png',
+     logo: '/images/clients/logo24.webp',
     },
   ];
 

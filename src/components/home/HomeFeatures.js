@@ -63,7 +63,7 @@ export default function HomeFeatures() {
                     Incredibly Powerful
                   </h3>
                 <Image
-                                src={`/images/others/features-left.png`}
+                                src={`/images/others/features-left.webp`}
                                 alt="Media coverage"
                                 width={0}
                                 height={0}

@@ -10,7 +10,7 @@ export default function HomeCounter() {
 
   <div className="d-none d-lg-block position-absolute top-0 start-0 h-100" style={{ width: '50%' }}>
     <div className="w-100 h-100" style={{
-      backgroundImage: `url('/images/bg1.jpg')`,
+      backgroundImage: `url('/images/bg1.webp')`,
       backgroundSize: 'cover',
       backgroundPosition: 'center'
     }}></div>

@@ -106,11 +106,11 @@ function initHomeJS() {
 // const $image = $(".product-image");
 
 // const images = [
-//   "/images/product1.png",
-//   "/images/product2.png",
-//   "/images/product3.png",
-//   "/images/product4.png",
-//   "/images/product5.png",
+//   "/images/product1.webp",
+//   "/images/product2.webp",
+//   "/images/product3.webp",
+//   "/images/product4.webp",
+//   "/images/product5.webp",
 // ];
 
 // let currentSectionIndex = -1;

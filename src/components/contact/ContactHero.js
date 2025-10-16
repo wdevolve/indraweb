@@ -121,7 +121,7 @@ return (
     </form>
     </div>
   </div>
-   <h2 className="my-5 fs-1 fw-normal lead border-bottom border-secondary pb-3 anim-fade-left only-desk">Our Global Locations</h2>
+   <h2 className="my-5 fs-1 fw-normal lead border-bottom border-secondary pb-3 anim-fade-left only-desk d-none">Our Global Locations</h2>
 
 </div>
 

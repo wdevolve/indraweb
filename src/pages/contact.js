@@ -19,7 +19,7 @@ export default function Contact() {
       <link rel="stylesheet" href={`/css/contact.css?v=${ASSET_VERSION}`} />
 
 <ContactHero/>
-<ContactGlobe/>
+{/* <ContactGlobe/> */}
 <FooterScripts/>
 
    </>

@@ -12,17 +12,17 @@ import IndHeroSub from '../../components/industries/industry/IndHeroSub'
 export default function Industries() {
 
   const challenges = [
-    { icon: "icons8-nuclear-100.png", desc: "Limited cycles of concentration (COC)." },
-    { icon: "icons8-water-tap-100.png", desc: "High freshwater requirement." },
-    { icon: "icons8-water-saving-100.png", desc: "Scaling and material damage due to high silica and hardness." },
-    { icon: "icons8-waste-water-100.png", desc: "Constraints, odor, inconsistent loads, aesthetic compliance." }
+    { icon: "icons8-nuclear-100.webp", desc: "Limited cycles of concentration (COC)." },
+    { icon: "icons8-water-tap-100.webp", desc: "High freshwater requirement." },
+    { icon: "icons8-water-saving-100.webp", desc: "Scaling and material damage due to high silica and hardness." },
+    { icon: "icons8-waste-water-100.webp", desc: "Constraints, odor, inconsistent loads, aesthetic compliance." }
   ];
 
     const electroxHelps = [
-    { icon: "icons8-nuclear-100.png", desc: "Increases concentrations of circles by 100%" },
-    { icon: "icons8-waste-water-100.png", desc: "Lower the scaling and fouling with a reduction in TH and silica" },
-    { icon: "icons8-water-saving-100.png", desc: "With up to 95% water recovery as per recycling quality" },
-    { icon: "icons8-global-warming-100.png", desc: "Significantly lower dependence on freshwater resources" }
+    { icon: "icons8-nuclear-100.webp", desc: "Increases concentrations of circles by 100%" },
+    { icon: "icons8-waste-water-100.webp", desc: "Lower the scaling and fouling with a reduction in TH and silica" },
+    { icon: "icons8-water-saving-100.webp", desc: "With up to 95% water recovery as per recycling quality" },
+    { icon: "icons8-global-warming-100.webp", desc: "Significantly lower dependence on freshwater resources" }
   ];
   
 

@@ -90,6 +90,10 @@ height:calc(100vh - 200px);
   height: 100%; /* Ensure col takes full height */
 }
 
+.team img{
+  padding-top:30px;
+}
+
 .team-text {
   position: absolute;
   bottom: 0;

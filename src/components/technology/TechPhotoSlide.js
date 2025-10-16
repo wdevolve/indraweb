@@ -16,11 +16,11 @@ export default function TechCounter() {
         >
                 <div className="row p-0 mx-auto photo-switch">
                   <div className="col-md-6 p-0"
-                  style={{height:'75vh',backgroundImage:'url(/images/bg1.jpg)'}}>
+                  style={{height:'75vh',backgroundImage:'url(/images/bg1.webp)'}}>
                     <div classname="w-100 h-100 photo-switch-image"></div>
                   </div>
                   <div className="col-md-6 p-0"
-                  style={{height:'75vh',backgroundImage:'url(/images/bg2.jpg)'}}>
+                  style={{height:'75vh',backgroundImage:'url(/images/bg2.webp)'}}>
                       <div className="w-100 h-100 photo-switch-image"></div>
                   </div>
                 </div>

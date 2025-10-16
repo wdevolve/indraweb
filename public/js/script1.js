@@ -230,9 +230,9 @@ $(document).ready(function () {
   const $image = $(".image");
 
   // const images = [
-  //   "/images/product1.png",
-  //   "/images/product2.png",
-  //   "/images/product3.png",
+  //   "/images/product1.webp",
+  //   "/images/product2.webp",
+  //   "/images/product3.webp",
   // ];
 
   // let currentSectionIndex = -1;

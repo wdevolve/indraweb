@@ -40,7 +40,7 @@ export default function HomeProducts() {
       </div>
     </div>
     <Image height={0}
-                width={0} alt="Image" className='image col-md-7' src="/images/product1.png"/>
+                width={0} alt="Image" className='image col-md-7' src="/images/product1.webp"/>
   </div>
   </div>
 

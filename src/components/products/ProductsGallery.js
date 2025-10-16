@@ -10,12 +10,12 @@ import 'swiper/css/navigation';
 export default function ProductsGallery() {
   // useAnimations();
   const productData = [
-    { name: 'ElectroX nano', image: 'product1.png' },
-    { name: 'ElectroX S01', image: 'product2.png' },
-    { name: 'ElectroX S02', image: 'product3.png' },
-    { name: 'ElectroX L01', image: 'product4.png' },
-    { name: 'ElectroX L02', image: 'product5.png' },
-    { name: 'PhloX', image: 'product6.png' },
+    { name: 'ElectroX nano', image: 'product1.webp' },
+    { name: 'ElectroX S01', image: 'product2.webp' },
+    { name: 'ElectroX S02', image: 'product3.webp' },
+    { name: 'ElectroX L01', image: 'product4.webp' },
+    { name: 'ElectroX L02', image: 'product5.webp' },
+    { name: 'PhloX', image: 'product6.webp' },
   ];
 
   const prevRef = useRef(null);
@@ -35,7 +35,7 @@ export default function ProductsGallery() {
       <section
         className="text-white d-flex flex-column justify-content-center align-items-center pb-5 position-relative bg-grad-gray-blue"
         // style={{
-        //   backgroundImage: 'url("/images/bg-abstract.jpg")',
+        //   backgroundImage: 'url("/images/bg-abstract.webp")',
         //   backgroundSize: 'contain',
         //   backgroundPosition: 'center',
         //   backgroundRepeat:'no-repeat',

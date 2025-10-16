@@ -12,17 +12,17 @@ import IndHeroSub from '../../components/industries/industry/IndHeroSub'
 export default function Industries() {
 
   const challenges = [
-    { icon: "icons8-nuclear-100.png", desc: "Conventional treatment methods are space-intensive" },
-    { icon: "icons8-water-tap-100.png", desc: "Odour problems in the plant’s vicinity." },
-    { icon: "icons8-water-saving-100.png", desc: "A high level of human intervention is mandatory." },
-    { icon: "icons8-global-warming-100.png", desc: "No reuse opportunity of the conventionally treated effluent." }
+    { icon: "icons8-nuclear-100.webp", desc: "Conventional treatment methods are space-intensive" },
+    { icon: "icons8-water-tap-100.webp", desc: "Odour problems in the plant’s vicinity." },
+    { icon: "icons8-water-saving-100.webp", desc: "A high level of human intervention is mandatory." },
+    { icon: "icons8-global-warming-100.webp", desc: "No reuse opportunity of the conventionally treated effluent." }
   ];
 
     const electroxHelps = [
-    { icon: "icons8-waste-water-100.png", desc: "Highly compact and easy to integrate with existing solutions " },
-    { icon: "icons8-nuclear-100.png", desc: "Delivering 3× better than NGT norms for reuse in utilities" },
-    { icon: "icons8-water-tap-100.png", desc: "Remote monitoring and controlling of the plant" },
-    { icon: "icons8-water-saving-100.png", desc: "Automatic compliance reporting and weekly updates" }
+    { icon: "icons8-waste-water-100.webp", desc: "Highly compact and easy to integrate with existing solutions " },
+    { icon: "icons8-nuclear-100.webp", desc: "Delivering 3× better than NGT norms for reuse in utilities" },
+    { icon: "icons8-water-tap-100.webp", desc: "Remote monitoring and controlling of the plant" },
+    { icon: "icons8-water-saving-100.webp", desc: "Automatic compliance reporting and weekly updates" }
   ];
   
 

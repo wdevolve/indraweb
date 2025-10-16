@@ -28,7 +28,7 @@ export default function ProjProccess() {
         <div className="row">
   <div className="col-12 col-md">
                     <Image height={0}
-                    width={0} style={{ width:'100%', height:'100%' }} src={`/images/dirty-water.jpg`} alt={`Water Treatment`} className="Image-fluid" />
+                    width={0} style={{ width:'100%', height:'100%' }} src={`/images/dirty-water.webp`} alt={`Water Treatment`} className="Image-fluid" />
   </div>
   <div className="col-12 col-md d-flex align-items-center">
     
@@ -41,7 +41,7 @@ export default function ProjProccess() {
   </div>
   <div className="col-12 col-md">
                 <Image height={0}
-                    width={0} style={{ width:'100%', height:'100%' }} src={`/images/indra-equipment.png`} alt={`Water Treatment`} className="Image-fluid" />
+                    width={0} style={{ width:'100%', height:'100%' }} src={`/images/indra-equipment.webp`} alt={`Water Treatment`} className="Image-fluid" />
   </div>
   <div className="col-12 col-md d-flex align-items-center">
         
@@ -55,7 +55,7 @@ export default function ProjProccess() {
   </div>
   <div className="col-12 col-md">
                 <Image height={0}
-                    width={0} style={{ width:'100%', height:'100%' }} src={`/images/pure-water.jpg`} alt={`Pure water`} className="Image-fluid" />
+                    width={0} style={{ width:'100%', height:'100%' }} src={`/images/pure-water.webp`} alt={`Pure water`} className="Image-fluid" />
   </div>
 </div>
 

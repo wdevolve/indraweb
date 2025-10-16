@@ -49,7 +49,7 @@ export default function AboutSolving() {
           <div className="col-md-6">
             <div className="position-sticky pe-md-5" style={{ top: '250px', zIndex: 1010 }}>
               <Image height={0}
-                width={0} alt="Image" style={{opacity:'0.8',width:'auto',height:'60vh' }} src="/images/product3.png"/>
+                width={0} alt="Image" style={{opacity:'0.8',width:'auto',height:'60vh' }} src="/images/product3.webp"/>
             </div>
           </div>
 
@@ -78,7 +78,7 @@ export default function AboutSolving() {
           <div className="col-md-6">
             <div className="position-sticky pe-md-5" style={{ top: '250px', zIndex: 1010 }}>
               <Image height={0}
-                width={0} alt="Image" style={{opacity:'0.8',width:'auto',height:'60vh' }} src="/images/product1.png"/>
+                width={0} alt="Image" style={{opacity:'0.8',width:'auto',height:'60vh' }} src="/images/product1.webp"/>
             </div>
           </div>
 
@@ -106,7 +106,7 @@ export default function AboutSolving() {
           <div className="col-md-6">
             <div className="position-sticky pe-md-5" style={{ top: '250px', zIndex: 1010}}>
                             <Image height={0}
-                width={0} alt="Image" style={{opacity:'0.8',width:'auto',height:'60vh' }} src="/images/product2.png"/>
+                width={0} alt="Image" style={{opacity:'0.8',width:'auto',height:'60vh' }} src="/images/product2.webp"/>
             </div>
           </div>
 
@@ -134,7 +134,7 @@ export default function AboutSolving() {
           <div className="col-md-6">
             <div className="position-sticky pe-md-5" style={{ top: '250px', zIndex: 1010 }}>
                             <Image height={0}
-                width={0} alt="Image" style={{opacity:'0.8',width:'auto',height:'60vh' }} src="/images/product3.png"/>
+                width={0} alt="Image" style={{opacity:'0.8',width:'auto',height:'60vh' }} src="/images/product3.webp"/>
             </div>
           </div>
 

@@ -5,22 +5,22 @@ import Image from 'next/image';
 export default function HomeClients() {
 // useAnimations();
 const logos = [
-  'logo1.png',
-  'logo2.png',
-  'logo3.png',
-  'logo4.png',
-  'logo5.png',
-  'logo6.png',
-  'logo7.png',
-  'logo8.png',
-  'logo9.png',
-  'logo10.png',
-  'logo11.png',
-  'logo12.png',
-  'logo13.png',
-  'logo14.png',
-  'logo15.png',
-  'logo16.png',
+  'logo1.webp',
+  'logo2.webp',
+  'logo3.webp',
+  'logo4.webp',
+  'logo5.webp',
+  'logo6.webp',
+  'logo7.webp',
+  'logo8.webp',
+  'logo9.webp',
+  'logo10.webp',
+  'logo11.webp',
+  'logo12.webp',
+  'logo13.webp',
+  'logo14.webp',
+  'logo15.webp',
+  'logo16.webp',
 ];
 
 

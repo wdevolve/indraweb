@@ -10,7 +10,7 @@ export default function ProjCaseStodyDownload() {
       <div className="container">
                     <div className="row mb-5 g-5">
               <div className="col-md-6 anim-fade-left">
-               <img src="/images/case-studies.avif" className="rounded mx-auto d-block w-100" alt="..."></img>
+               <img src="/images/case-studies.webp" className="rounded mx-auto d-block w-100" alt="..."></img>
               </div>
               <div className="col-md-6 d-flex align-items-center anim-fade-right">
                  <div>

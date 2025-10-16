@@ -29,7 +29,7 @@ export default function ProductsEvolution() {
 
            <div className="row row-cols-1 row-cols-sm-2 row-cols-md-5 g-0 text-center" style={{paddingBottom:'20px'}}>
               <div className="col text-center">
-                <Image height={0} width={0} style={{ width:'100%', height:'auto' }} src={`/images/products/product-evolution-1.png`} alt={`Water Treatment`} className="Image-fluid mb-5" />
+                <Image height={0} width={0} style={{ width:'100%', height:'auto' }} src={`/images/products/product-evolution-1.webp`} alt={`Water Treatment`} className="Image-fluid mb-5" />
               <div style={{marginTop:'-45px', position:'relative', zIndex:'999999', background:'transparent'}}>
                 <div className="lead fs-2 fw-bold text-secondary bg-light py-3 px-4 d-inline">2018</div>
                 <div className="lead fs-2 fw-medium text-grad my-2">Prototype</div>
@@ -37,7 +37,7 @@ export default function ProductsEvolution() {
                 </div>
               </div>
               <div className="col">
-                <Image height={0} width={0} style={{ width:'100%', height:'auto' }} src={`/images/products/product-evolution-2.png`} alt={`Water Treatment`} className="Image-fluid mb-5" />
+                <Image height={0} width={0} style={{ width:'100%', height:'auto' }} src={`/images/products/product-evolution-2.webp`} alt={`Water Treatment`} className="Image-fluid mb-5" />
               <div style={{marginTop:'-45px', position:'relative', zIndex:'999999', background:'transparent'}}>
                 <div className="lead fs-2 fw-bold text-secondary bg-light py-3 px-4 d-inline">2020</div>
                 <div className="lead fs-2 fw-medium text-grad my-2">Flow Reactor</div>
@@ -46,7 +46,7 @@ export default function ProductsEvolution() {
 
               </div>
               <div className="col">
-                <Image height={0} width={0} style={{ width:'100%', height:'auto' }} src={`/images/products/product-evolution-3.png`} alt={`Water Treatment`} className="Image-fluid mb-5" />
+                <Image height={0} width={0} style={{ width:'100%', height:'auto' }} src={`/images/products/product-evolution-3.webp`} alt={`Water Treatment`} className="Image-fluid mb-5" />
               <div style={{marginTop:'-45px', position:'relative', zIndex:'999999', background:'transparent'}}>
                 <div className="lead fs-2 fw-bold text-secondary bg-light py-3 px-4 d-inline">2022</div>
                 <div className="lead fs-2 fw-medium text-grad my-2">SRF 1.0</div>
@@ -54,7 +54,7 @@ export default function ProductsEvolution() {
                 </div>
               </div>
               <div className="col">
-                <Image height={0} width={0} style={{ width:'100%', height:'auto' }} src={`/images/products/product-evolution-4.png`} alt={`Water Treatment`} className="Image-fluid mb-5" />
+                <Image height={0} width={0} style={{ width:'100%', height:'auto' }} src={`/images/products/product-evolution-4.webp`} alt={`Water Treatment`} className="Image-fluid mb-5" />
               <div style={{marginTop:'-45px', position:'relative', zIndex:'999999', background:'transparent'}}>
                 <div className="lead fs-2 fw-bold text-secondary bg-light py-3 px-4 d-inline">2023</div>
                 <div className="lead fs-2 fw-medium text-grad my-2">ElectroX Flow</div>
@@ -62,7 +62,7 @@ export default function ProductsEvolution() {
                 </div>
               </div>
               <div className="col">
-                <Image height={0} width={0} style={{ width:'100%', height:'auto' }} src={`/images/products/product-evolution-5.png`} alt={`Water Treatment`} className="Image-fluid mb-5" />
+                <Image height={0} width={0} style={{ width:'100%', height:'auto' }} src={`/images/products/product-evolution-5.webp`} alt={`Water Treatment`} className="Image-fluid mb-5" />
               <div style={{marginTop:'-45px', position:'relative', zIndex:'999999', background:'transparent'}}>
                 <div className="lead fs-2 fw-bold text-secondary bg-light py-3 px-4 d-inline">2024</div>
                 <div className="lead fs-2 fw-medium text-grad my-2">ElectroX L02</div>

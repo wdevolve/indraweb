@@ -44,7 +44,7 @@ export default function TechTest() {
             <div className="mobile-visual">
               <Image
                 className="card-img" width={0} height={0}
-                src="https://raw.githubusercontent.com/mobalti/open-props-interfaces/main/dynamic-content-lockups-v2/assets/img-1.avif"
+                src="https://raw.githubusercontent.com/mobalti/open-props-interfaces/main/dynamic-content-lockups-v2/assets/img-1.webp"
                 alt="Fantasy warrior  - Video game character"
               />
             </div>
@@ -58,7 +58,7 @@ export default function TechTest() {
               <div className="water-drop"></div>
               <Image
                 className="card-img" width={0} height={0}
-                src="https://raw.githubusercontent.com/mobalti/open-props-interfaces/main/dynamic-content-lockups-v2/assets/img-2.avif"
+                src="https://raw.githubusercontent.com/mobalti/open-props-interfaces/main/dynamic-content-lockups-v2/assets/img-2.webp"
                 alt="Green haired ninja in armor - Video game character"
               />
             </div>
@@ -73,7 +73,7 @@ export default function TechTest() {
 
               <Image
                 className="card-img" width={0} height={0}
-                src="https://raw.githubusercontent.com/mobalti/open-props-interfaces/main/dynamic-content-lockups-v2/assets/img-3.avif"
+                src="https://raw.githubusercontent.com/mobalti/open-props-interfaces/main/dynamic-content-lockups-v2/assets/img-3.webp"
                 alt="Female warrior in armor - Video game character"
               />
             </div>
@@ -87,7 +87,7 @@ export default function TechTest() {
                             <div className="water-drop"></div>
               <Image
                 className="card-img" width={0} height={0}
-                src="https://raw.githubusercontent.com/mobalti/open-props-interfaces/main/dynamic-content-lockups-v2/assets/img-4.avif"
+                src="https://raw.githubusercontent.com/mobalti/open-props-interfaces/main/dynamic-content-lockups-v2/assets/img-4.webp"
                 alt="Agile warrior - Video game character"
               />
             </div>
@@ -103,7 +103,7 @@ export default function TechTest() {
                             <div className="water-drop"></div>
 <Image
                 className="card-img" width={0} height={0}
-                src="https://raw.githubusercontent.com/mobalti/open-props-interfaces/main/dynamic-content-lockups-v2/assets/img-1.avif"
+                src="https://raw.githubusercontent.com/mobalti/open-props-interfaces/main/dynamic-content-lockups-v2/assets/img-1.webp"
                 alt="Fantasy warrior  - Video game character"
               />
             </div>
@@ -111,7 +111,7 @@ export default function TechTest() {
                             <div className="water-drop"></div>
 <Image
                 className="card-img" width={0} height={0}
-                src="https://raw.githubusercontent.com/mobalti/open-props-interfaces/main/dynamic-content-lockups-v2/assets/img-2.avif"
+                src="https://raw.githubusercontent.com/mobalti/open-props-interfaces/main/dynamic-content-lockups-v2/assets/img-2.webp"
                 alt="Green haired ninja in armor - Video game character"
               />
             </div>
@@ -119,7 +119,7 @@ export default function TechTest() {
                             <div className="water-drop"></div>
 <Image
                 className="card-img" width={0} height={0}
-                src="https://raw.githubusercontent.com/mobalti/open-props-interfaces/main/dynamic-content-lockups-v2/assets/img-3.avif"
+                src="https://raw.githubusercontent.com/mobalti/open-props-interfaces/main/dynamic-content-lockups-v2/assets/img-3.webp"
                 alt="Female warrior in armor - Video game character"
               />
             </div>
@@ -127,7 +127,7 @@ export default function TechTest() {
                             <div className="water-drop"></div>
 <Image
                 className="card-img" width={0} height={0}
-                src="https://raw.githubusercontent.com/mobalti/open-props-interfaces/main/dynamic-content-lockups-v2/assets/img-4.avif"
+                src="https://raw.githubusercontent.com/mobalti/open-props-interfaces/main/dynamic-content-lockups-v2/assets/img-4.webp"
                 alt="Agile warrior - Video game character"
               />
             </div>

@@ -16,42 +16,42 @@ export default function AboutAwards() {
     {
       title: 'Award Title One',
       excerpt: 'Award description sample threeline paragraph. Award description sample threeline paragraph. Award description sample threeline paragraph.',
-      image: '/images/award1.jpg',
+      image: '/images/award1.webp',
     },
     {
       title: 'Award Title Two',
       excerpt: 'Award description sample threeline paragraph. Award description sample threeline paragraph. Award description sample threeline paragraph.',
-      image: '/images/award2.jpg',
+      image: '/images/award2.webp',
     },
     {
       title: 'Award Title Three',
       excerpt: 'Award description sample threeline paragraph. Award description sample threeline paragraph. Award description sample threeline paragraph.',
-      image: '/images/award3.jpg',
+      image: '/images/award3.webp',
     },
     {
       title: 'Award Title Four',
       excerpt: 'Award description sample threeline paragraph. Award description sample threeline paragraph. Award description sample threeline paragraph.',
-      image: '/images/award4.jpg',
+      image: '/images/award4.webp',
     },
     {
       title: 'Award Title Five',
       excerpt: 'Award description sample threeline paragraph. Award description sample threeline paragraph. Award description sample threeline paragraph.',
-      image: '/images/award1.jpg',
+      image: '/images/award1.webp',
     },
     {
       title: 'Award Title Six',
       excerpt: 'Award description sample threeline paragraph. Award description sample threeline paragraph. Award description sample threeline paragraph.',
-      image: '/images/award2.jpg',
+      image: '/images/award2.webp',
     },
     {
       title: 'Award Title Seven',
       excerpt: 'Award description sample threeline paragraph. Award description sample threeline paragraph. Award description sample threeline paragraph.',
-      image: '/images/award3.jpg',
+      image: '/images/award3.webp',
     },
     {
       title: 'Award Title Eight',
       excerpt: 'Award description sample threeline paragraph. Award description sample threeline paragraph. Award description sample threeline paragraph.',
-      image: '/images/award4.jpg',
+      image: '/images/award4.webp',
     },
   ];
 

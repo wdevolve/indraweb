@@ -43,7 +43,7 @@ export default function AboutPrinciples() {
                     <div className="col">
                           <div className="d-flex align-items-center">
                             <div className="pe-3">
-                              <img width={75} height={75} src="/images/icons/icons8-waste-water-100.png" class="rounded float-start" alt="..." style={{filter:'grayscale(1)'}}/>
+                              <img width={75} height={75} src="/images/icons/icons8-waste-water-100.webp" class="rounded float-start" alt="..." style={{filter:'grayscale(1)'}}/>
                             </div>
                             <p className="lead w-75 fs-5 mb-0"><span className="d-block fw-bold">80%</span>of wastewater is discharged untreated globally.</p>
                           </div>
@@ -51,7 +51,7 @@ export default function AboutPrinciples() {
                     {/* <div className="col">
                           <div className="d-flex align-items-center">
                             <div className="pe-3">
-                              <img width={75} height={75} src="/images/icons/savings.png" class="rounded float-start" alt="..." style={{filter:'grayscale(1)'}}/>
+                              <img width={75} height={75} src="/images/icons/savings.webp" class="rounded float-start" alt="..." style={{filter:'grayscale(1)'}}/>
                             </div>
                             <p className="lead w-75 fs-5 mb-0"><span className="d-block fw-bold">70%</span>of industrial wastewater in developing nations is released directly into rivers</p>
                           </div>
@@ -59,7 +59,7 @@ export default function AboutPrinciples() {
                                         <div className="col">
                           <div className="d-flex align-items-center">
                             <div className="pe-3">
-                              <img width={75} height={75} src="/images/icons/icons8-water-tap-100.png" class="rounded float-start" alt="..." style={{filter:'grayscale(1)'}}/>
+                              <img width={75} height={75} src="/images/icons/icons8-water-tap-100.webp" class="rounded float-start" alt="..." style={{filter:'grayscale(1)'}}/>
                             </div>
                             <p className="lead w-75 fs-5 mb-0"><span className="d-block fw-bold">1 in 3</span>Freshwater ecosystems are already critically threatened by pollution</p>
                           </div>
@@ -67,7 +67,7 @@ export default function AboutPrinciples() {
                                         <div className="col">
                           <div className="d-flex align-items-center">
                             <div className="pe-3">
-                              <img width={75} height={75} src="/images/icons/icons8-water-saving-100.png" class="rounded float-start" alt="..." style={{filter:'grayscale(1)'}}/>
+                              <img width={75} height={75} src="/images/icons/icons8-water-saving-100.webp" class="rounded float-start" alt="..." style={{filter:'grayscale(1)'}}/>
                             </div>
                             <p className="lead w-75 fs-5 mb-0"><span className="d-block fw-bold">50%</span>in freshwater demand is projected by 2030 without reuse solutions</p>
                           </div>
@@ -75,7 +75,7 @@ export default function AboutPrinciples() {
                                         {/* <div className="col">
                           <div className="d-flex align-items-center">
                             <div className="pe-3">
-                              <img width={75} height={75} src="/images/icons/water-recovery.png" class="rounded float-start" alt="..." style={{filter:'grayscale(1)'}}/>
+                              <img width={75} height={75} src="/images/icons/water-recovery.webp" class="rounded float-start" alt="..." style={{filter:'grayscale(1)'}}/>
                             </div>
                             <p className="lead w-75 fs-5 mb-0"><span className="d-block fw-bold">30%</span>of industrial freshwater demand could be replaced by recycled wastewater</p>
                           </div>
@@ -83,7 +83,7 @@ export default function AboutPrinciples() {
                                         <div className="col">
                           <div className="d-flex align-items-center">
                             <div className="pe-3">
-                              <img width={75} height={75} src="/images/icons/icons8-global-warming-100.png" class="rounded float-start" alt="..." style={{filter:'grayscale(1)'}}/>
+                              <img width={75} height={75} src="/images/icons/icons8-global-warming-100.webp" class="rounded float-start" alt="..." style={{filter:'grayscale(1)'}}/>
                             </div>
                             <p className="lead w-75 fs-5 mb-0"><span className="d-block fw-bold">10% of Global Emissions</span>linked to conventional water treatment and supply systems</p>
                           </div>
@@ -91,7 +91,7 @@ export default function AboutPrinciples() {
                                         <div className="col">
                           <div className="d-flex align-items-center">
                             <div className="pe-3">
-                              <img width={75} height={75} src="/images/icons/icons8-nuclear-100.png" class="rounded float-start" alt="..." style={{filter:'grayscale(1)'}}/>
+                              <img width={75} height={75} src="/images/icons/icons8-nuclear-100.webp" class="rounded float-start" alt="..." style={{filter:'grayscale(1)'}}/>
                             </div>
                             <p className="lead w-75 fs-5 mb-0"><span className="d-block fw-bold">20–40%</span> of industrial production costs tied to water availability.</p>
                           </div>
@@ -99,7 +99,7 @@ export default function AboutPrinciples() {
                                         {/* <div className="col">
                           <div className="d-flex align-items-center">
                             <div className="pe-3">
-                              <img width={75} height={75} src="/images/icons/modular-capacity.png" class="rounded float-start" alt="..." style={{filter:'grayscale(1)'}}/>
+                              <img width={75} height={75} src="/images/icons/modular-capacity.webp" class="rounded float-start" alt="..." style={{filter:'grayscale(1)'}}/>
                             </div>
                             <p className="lead w-75 fs-5 mb-0"><span className="d-block fw-bold">$6.7 Trillion</span>projected global investment gap in water infrastructure by 2030</p>
                           </div>
@@ -107,7 +107,7 @@ export default function AboutPrinciples() {
                                         <div className="col">
                           <div className="d-flex align-items-center">
                             <div className="pe-4">
-                              <img width={75} height={75} src="/images/icons/icons8-medical-mask-100.png" class="rounded float-start" alt="..." style={{filter:'grayscale(1)'}}/>
+                              <img width={75} height={75} src="/images/icons/icons8-medical-mask-100.webp" class="rounded float-start" alt="..." style={{filter:'grayscale(1)'}}/>
                             </div>
                             <p className="lead w-75 fs-5 mb-0"><span className="d-block fw-bold">485,000</span>Premature annual deaths due to polluted water</p>
                           </div>
@@ -115,7 +115,7 @@ export default function AboutPrinciples() {
                     {/* <div className="col d-none">
                           <div className="d-flex align-items-center">
                             <div className="pe-3">
-                              <img width={75} height={75} src="/images/icons/plug-play.png" class="rounded float-start" alt="..." style={{filter:'grayscale(1)'}}/>
+                              <img width={75} height={75} src="/images/icons/plug-play.webp" class="rounded float-start" alt="..." style={{filter:'grayscale(1)'}}/>
                             </div>
                             <p className="lead w-75 fs-5 mb-0"><span className="d-block fw-bold">$260 Billion</span>Annually, in economic losses due to water pollution & non-reuse of wastewater</p>
                           </div>

@@ -111,7 +111,7 @@ export default function Industries() {
                     <p className="text-end text-white">Lorem Ipsum</p>
                   </div>
                   <Image
-                    src={`/images/industries-bg.jpg`}
+                    src={`/images/industries-bg.webp`}
                     alt="Media coverage"
                     width={0}
                     height={0}
@@ -146,7 +146,7 @@ export default function Industries() {
                     <p className="text-end text-white">Lorem Ipsum</p>
                   </div>
                   <Image
-                    src={`/images/technology-bg.jpg`}
+                    src={`/images/technology-bg.webp`}
                     alt="Media coverage"
                     width={0}
                     height={0}
@@ -186,7 +186,7 @@ export default function Industries() {
                     <p className="text-end text-white">Projects</p>
                   </div>
                   <Image
-                    src={`/images/projects-bg.jpg`}
+                    src={`/images/projects-bg.webp`}
                     alt="Media coverage"
                     width={0}
                     height={0}

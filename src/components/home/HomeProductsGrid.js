@@ -12,12 +12,12 @@ import 'swiper/css/navigation';
 export default function HomeProductsGrid() {
   // useAnimations();
   const productData = [
-    { name: 'ElectroX nano', image: 'electrox-nano.jpg', product:'electroxnano' },
-    { name: 'ElectroX S Series', image: 'electrox-s-series.jpg', product:'electroxs01' },
-    // { name: 'ElectroX S02', image: 'product3.png', product:'electroxs02' },
-    { name: 'ElectroX L Series', image: 'electrox-l-series.jpg', product:'electroxl01' },
-    // { name: 'ElectroX L02', image: 'product5.png', product:'electroxl02' },
-    { name: 'PhloX', image: 'phlox.jpg', product:'phlox' },
+    { name: 'ElectroX nano', image: 'electrox-nano.webp', product:'electroxnano' },
+    { name: 'ElectroX S Series', image: 'electrox-s-series.webp', product:'electroxs01' },
+    // { name: 'ElectroX S02', image: 'product3.webp', product:'electroxs02' },
+    { name: 'ElectroX L Series', image: 'electrox-l-series.webp', product:'electroxl01' },
+    // { name: 'ElectroX L02', image: 'product5.webp', product:'electroxl02' },
+    { name: 'PhloX', image: 'phlox.webp', product:'phlox' },
   ];
 
   const prevRef = useRef(null);
@@ -37,7 +37,7 @@ export default function HomeProductsGrid() {
       <section
         className="bg-grad-gray-blue text-white d-flex flex-column justify-content-center align-items-center py-5 position-relative"
         // style={{
-        //   backgroundImage: 'url("/images/bg-abstract.jpg")',
+        //   backgroundImage: 'url("/images/bg-abstract.webp")',
         //   backgroundSize: 'contain',
         //   backgroundPosition: 'center',
         //   backgroundRepeat:'no-repeat',

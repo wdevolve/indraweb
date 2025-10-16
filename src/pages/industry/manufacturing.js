@@ -12,17 +12,17 @@ import IndHeroSub from '../../components/industries/industry/IndHeroSub'
 export default function Industries() {
 
   const challenges = [
-    { icon: "icons8-nuclear-100.png", desc: "High variation in  pollutant load of the stream" },
-    { icon: "icons8-water-tap-100.png", desc: "Difficult-to-treat organics, high toxicity, variable load." },
-    { icon: "icons8-water-saving-100.png", desc: "High OPEX in ZLD solutions due to low RO/UF recovery." },
-    { icon: "icons8-global-warming-100.png", desc: "No reuse opportunity of the conventionally treated effluent." }
+    { icon: "icons8-nuclear-100.webp", desc: "High variation in  pollutant load of the stream" },
+    { icon: "icons8-water-tap-100.webp", desc: "Difficult-to-treat organics, high toxicity, variable load." },
+    { icon: "icons8-water-saving-100.webp", desc: "High OPEX in ZLD solutions due to low RO/UF recovery." },
+    { icon: "icons8-global-warming-100.webp", desc: "No reuse opportunity of the conventionally treated effluent." }
   ];
  
   const electroxHelps = [
-    { icon: "icons8-global-warming-100.png", desc: "Zero chemicals required for primary treatment" },
-    { icon: "icons8-nuclear-100.png", desc: "Effortless integration in the existing solution" },
-    { icon: "icons8-water-tap-100.png", desc: "Delivering 3× better than NGT norms for reuse in utilities" },
-    { icon: "icons8-water-saving-100.png", desc: "Effectively handles variation in effluent characteristics" }
+    { icon: "icons8-global-warming-100.webp", desc: "Zero chemicals required for primary treatment" },
+    { icon: "icons8-nuclear-100.webp", desc: "Effortless integration in the existing solution" },
+    { icon: "icons8-water-tap-100.webp", desc: "Delivering 3× better than NGT norms for reuse in utilities" },
+    { icon: "icons8-water-saving-100.webp", desc: "Effectively handles variation in effluent characteristics" }
   ];
   
   

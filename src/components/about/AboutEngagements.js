@@ -32,7 +32,7 @@ export default function AboutEngagements() {
                                     <p className="text-end text-white">We started with an innocent thought of creating impact through securing the most fundamental element of life.</p>
                                   </div>
                                   <Image
-                                    src={`/images/projects-bg.jpg`}
+                                    src={`/images/projects-bg.webp`}
                                     alt="Media coverage"
                                     width={0}
                                     height={0}

@@ -151,7 +151,7 @@ export default function ProductTabs() {
                     </div>
                     <div className="col-md-6 ps-md-5 anim-zoom">
                       <Image
-                        src={`/images/products/electrox-nano.jpg`}
+                        src={`/images/products/electrox-nano.webp`}
                         alt="Media coverage"
                         width={0}
                         height={0}
@@ -198,7 +198,7 @@ export default function ProductTabs() {
                                               </div>
                     <div className="col-md-6 ps-md-5 anim-zoom">
                       <Image
-                        src={`/images/products/electrox-s-series.jpg`}
+                        src={`/images/products/electrox-s-series.webp`}
                         alt="Media coverage"
                         width={0}
                         height={0}
@@ -248,7 +248,7 @@ export default function ProductTabs() {
                                               </div>
                     <div className="col-md-6 ps-md-5 anim-zoom">
                       <Image
-                        src={`/images/products/electrox-s02.png`}
+                        src={`/images/products/electrox-s02.webp`}
                         alt="Media coverage"
                         width={0}
                         height={0}
@@ -296,7 +296,7 @@ export default function ProductTabs() {
                                               </div>
                     <div className="col-md-6 ps-md-5 anim-zoom">
                       <Image
-                        src={`/images/products/electrox-l-series.jpg`}
+                        src={`/images/products/electrox-l-series.webp`}
                         alt="Media coverage"
                         width={0}
                         height={0}
@@ -343,7 +343,7 @@ export default function ProductTabs() {
                                               </div>
                     <div className="col-md-6 ps-md-5 anim-zoom">
                       <Image
-                        src={`/images/products/electrox-l02.png`}
+                        src={`/images/products/electrox-l02.webp`}
                         alt="Media coverage"
                         width={0}
                         height={0}
@@ -389,7 +389,7 @@ export default function ProductTabs() {
                                               </div>
                     <div className="col-md-6 ps-md-5 anim-zoom">
                       <Image
-                        src={`/images/products/phlox.jpg`}
+                        src={`/images/products/phlox.webp`}
                         alt="Media coverage"
                         width={0}
                         height={0}

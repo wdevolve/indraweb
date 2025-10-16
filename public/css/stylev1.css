@@ -55,12 +55,12 @@ a{
 }
 
 .line-left::before {
-content: url('/images/v-line.png'); /* your image path here */
+content: url('/images/v-line.webp'); /* your image path here */
   display: inline-block;
   flex-shrink: 0;
 }
 .line-right::before {
-content: url('/images/v-line.png'); /* your image path here */
+content: url('/images/v-line.webp'); /* your image path here */
   display: inline-block;
   flex-shrink: 0;
   transform:scaleX(-1);
@@ -86,7 +86,7 @@ content: url('/images/v-line.png'); /* your image path here */
  .full-landing-image {
   background-size: 600% 600%;
   animation: aquaFlow 20s ease infinite ! important;
-  background: url('/images/hero-background.jpg') no-repeat center;
+  background: url('/images/hero-background.webp') no-repeat center;
   background-size: cover;
   
 } 
@@ -440,7 +440,7 @@ Features triangle ends*/
 
 
 .gradient-slide {
-  background-image: url('/images/bg-gradient.png'); /* Update the path as needed */
+  background-image: url('/images/bg-gradient.webp'); /* Update the path as needed */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -554,15 +554,15 @@ Features triangle ends*/
 
 
 .hs-cont-1{
-    background: linear-gradient(to bottom right, #8088D1dd, #268CD6dd, #204A7Ddd), url('/images/bg1.jpg');
+    background: linear-gradient(to bottom right, #8088D1dd, #268CD6dd, #204A7Ddd), url('/images/bg1.webp');
 
 }
 .hs-cont-2{
-    background: linear-gradient(to bottom right, #8088D1dd, #268CD6dd, #204A7Ddd), url('/images/bg2.jpg');
+    background: linear-gradient(to bottom right, #8088D1dd, #268CD6dd, #204A7Ddd), url('/images/bg2.webp');
 
 }
 .hs-cont-3{
-    background: linear-gradient(to bottom right, #8088D1dd, #268CD6dd, #204A7Ddd), url('/images/bg3.jpg');
+    background: linear-gradient(to bottom right, #8088D1dd, #268CD6dd, #204A7Ddd), url('/images/bg3.webp');
  
 }
 .horizontal-scroll .container {

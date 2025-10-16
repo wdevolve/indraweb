@@ -26,11 +26,11 @@ export default function IndTreatmentSystems() {
 
           <div className="row row-cols-1 row-cols-sm-2 row-cols-md-2 g-5 text-white">
             <div className="col">
-                        <div className="rounded-5 p-5" style={{backgroundImage:'url("/images/About-Us-Certification-1.jpg")',backgroundPosition:'center center',backgroundSize:'cover', backgroundRepeat: 'no-repeat'}}>
+                        <div className="rounded-5 p-5" style={{backgroundImage:'url("/images/About-Us-Certification-1.webp")',backgroundPosition:'center center',backgroundSize:'cover', backgroundRepeat: 'no-repeat'}}>
                           <div className="col-12 border-bottom py-4">
                             <div className="d-flex align-items-center">
                               <div className="pe-2">
-                                <img width={90} height={90} src="/images/icons/plug-play-white.png" className="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
+                                <img width={90} height={90} src="/images/icons/plug-play-white.webp" className="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
                               </div>
                               <p className="lead w-75 fs-4 mb-0 text-end">Plug and play</p>
                             </div>
@@ -38,7 +38,7 @@ export default function IndTreatmentSystems() {
                           <div className="col-12 border-bottom py-4">
                             <div className="d-flex align-items-center">
                               <div className="pe-2">
-                                <img width={90} height={90} src="/images/icons/savings-white.png" className="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
+                                <img width={90} height={90} src="/images/icons/savings-white.webp" className="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
                               </div>
                             <p className="lead w-75 fs-4 text-end mb-0"><b>35%</b> savings on Lifecycle costs</p>
                             </div>
@@ -46,7 +46,7 @@ export default function IndTreatmentSystems() {
                           <div className="col-12 border-bottom py-4">
                             <div className="d-flex align-items-center">
                               <div className="pe-2">
-                                <img width={90} height={90} src="/images/icons/less-space-white.png" className="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
+                                <img width={90} height={90} src="/images/icons/less-space-white.webp" className="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
                               </div>
                             <p className="lead w-75 fs-4 text-end mb-0">90% less space requirement</p>
                             </div>
@@ -54,7 +54,7 @@ export default function IndTreatmentSystems() {
                           <div className="col-12  py-4">
                             <div className="d-flex align-items-center">
                               <div className="pe-2">
-                                <img width={90} height={90} src="/images/icons/operational-costs-white.png" className="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
+                                <img width={90} height={90} src="/images/icons/operational-costs-white.webp" className="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
                               </div>
                             <p className="lead w-75 fs-4 text-end mb-0"><b>40%</b> savings on operational costs</p>
                             </div>
@@ -62,11 +62,11 @@ export default function IndTreatmentSystems() {
                         </div>
             </div>
             <div className="col">
-                        <div className="rounded-5 p-5" style={{backgroundImage:'url("/images/About-Us-Certification-2.jpg")',backgroundPosition:'center center',backgroundSize:'cover', backgroundRepeat: 'no-repeat'}}>
+                        <div className="rounded-5 p-5" style={{backgroundImage:'url("/images/About-Us-Certification-2.webp")',backgroundPosition:'center center',backgroundSize:'cover', backgroundRepeat: 'no-repeat'}}>
                           <div className="col-12 border-bottom py-4">
                             <div className="d-flex align-items-center">
                               <div className="pe-2">
-                                <img width={90} height={90} src="/images/icons/water-recovery-white.png" className="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
+                                <img width={90} height={90} src="/images/icons/water-recovery-white.webp" className="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
                               </div>
                             <p className="lead w-75 fs-4 text-end mb-0">up to <b>99%</b> Water Recovery</p>
                             </div>
@@ -74,7 +74,7 @@ export default function IndTreatmentSystems() {
                           <div className="col-12 border-bottom py-4">
                             <div className="d-flex align-items-center">
                               <div className="pe-2">
-                                <img width={90} height={90} src="/images/icons/zero-chemicals-white.png" className="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
+                                <img width={90} height={90} src="/images/icons/zero-chemicals-white.webp" className="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
                               </div>
                             <p className="lead w-75 fs-4 text-end mb-0"><b>Zero</b> chemicals in Primary Treatment</p>
                             </div>
@@ -82,7 +82,7 @@ export default function IndTreatmentSystems() {
                           <div className="col-12 border-bottom py-4">
                             <div className="d-flex align-items-center">
                               <div className="pe-2">
-                                <img width={90} height={90} src="/images/icons/pcb-white.png" className="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
+                                <img width={90} height={90} src="/images/icons/pcb-white.webp" className="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
                               </div>
                             <p className="lead w-75 fs-4 text-end mb-0">Meets <b>PCB</b> & STATE norms</p>
                             </div>
@@ -90,7 +90,7 @@ export default function IndTreatmentSystems() {
                           <div className="col-12 py-4">
                             <div className="d-flex align-items-center">
                               <div className="pe-2">
-                                <img width={90} height={90} src="/images/icons/modular-capacity-white.png" className="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
+                                <img width={90} height={90} src="/images/icons/modular-capacity-white.webp" className="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
                               </div>
                             <p className="lead w-75 fs-4 text-end mb-0">Modular Capacity: <b>5-2000</b> KLD</p>
                             </div>
@@ -105,7 +105,7 @@ export default function IndTreatmentSystems() {
                     <div className="col">
                           <div className="d-flex align-items-center">
                             <div className="pe-2">
-                              <img width={75} height={75} src="/images/icons/plug-play.png" classname="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
+                              <img width={75} height={75} src="/images/icons/plug-play.webp" classname="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
                             </div>
                             <p className="lead w-75 fs-4 text-end mb-0"><b>Plug</b> and play</p>
                           </div>
@@ -113,7 +113,7 @@ export default function IndTreatmentSystems() {
                     <div className="col">
                           <div className="d-flex align-items-center">
                             <div className="pe-2">
-                              <img width={75} height={75} src="/images/icons/savings.png" classname="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
+                              <img width={75} height={75} src="/images/icons/savings.webp" classname="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
                             </div>
                             <p className="lead w-75 fs-4 text-end mb-0"><b>35%</b> savings on Lifecycle costs</p>
                           </div>
@@ -121,7 +121,7 @@ export default function IndTreatmentSystems() {
                                         <div className="col">
                           <div className="d-flex align-items-center">
                             <div className="pe-2">
-                              <img width={75} height={75} src="/images/icons/less-space.png" classname="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
+                              <img width={75} height={75} src="/images/icons/less-space.webp" classname="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
                             </div>
                             <p className="lead w-75 fs-4 text-end mb-0">90% less space requirement</p>
                           </div>
@@ -129,7 +129,7 @@ export default function IndTreatmentSystems() {
                                         <div className="col">
                           <div className="d-flex align-items-center">
                             <div className="pe-2">
-                              <img width={75} height={75} src="/images/icons/plug-play.png" classname="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
+                              <img width={75} height={75} src="/images/icons/plug-play.webp" classname="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
                             </div>
                             <p className="lead w-75 fs-4 text-end mb-0"><b>40%</b> savings on operational costs</p>
                           </div>
@@ -137,7 +137,7 @@ export default function IndTreatmentSystems() {
                                         <div className="col">
                           <div className="d-flex align-items-center">
                             <div className="pe-2">
-                              <img width={75} height={75} src="/images/icons/water-recovery.png" classname="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
+                              <img width={75} height={75} src="/images/icons/water-recovery.webp" classname="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
                             </div>
                             <p className="lead w-75 fs-4 text-end mb-0">up to <b>99%</b> Water Recovery</p>
                           </div>
@@ -145,7 +145,7 @@ export default function IndTreatmentSystems() {
                                         <div className="col">
                           <div className="d-flex align-items-center">
                             <div className="pe-2">
-                              <img width={75} height={75} src="/images/icons/zero-chemicals.png" classname="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
+                              <img width={75} height={75} src="/images/icons/zero-chemicals.webp" classname="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
                             </div>
                             <p className="lead w-75 fs-4 text-end mb-0"><b>Zero</b> chemicals in Primary Treatment</p>
                           </div>
@@ -153,7 +153,7 @@ export default function IndTreatmentSystems() {
                                         <div className="col">
                           <div className="d-flex align-items-center">
                             <div className="pe-2">
-                              <img width={75} height={75} src="/images/icons/pcb.png" classname="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
+                              <img width={75} height={75} src="/images/icons/pcb.webp" classname="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
                             </div>
                             <p className="lead w-75 fs-4 text-end mb-0">Meets <b>PCB</b> & STATE norms</p>
                           </div>
@@ -161,7 +161,7 @@ export default function IndTreatmentSystems() {
                                         <div className="col">
                           <div className="d-flex align-items-center">
                             <div className="pe-2">
-                              <img width={75} height={75} src="/images/icons/modular-capacity.png" classname="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
+                              <img width={75} height={75} src="/images/icons/modular-capacity.webp" classname="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
                             </div>
                             <p className="lead w-75 fs-4 text-end mb-0">Modular Capacity: <b>5-2000</b> KLD</p>
                           </div>
@@ -169,7 +169,7 @@ export default function IndTreatmentSystems() {
                                         <div className="col">
                           <div className="d-flex align-items-center">
                             <div className="pe-2">
-                              <img width={75} height={75} src="/images/icons/long-life.png" classname="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
+                              <img width={75} height={75} src="/images/icons/long-life.webp" classname="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
                             </div>
                             <p className="lead w-75 fs-4 text-end mb-0">Long life-span <b>10+</b> years</p>
                           </div>
@@ -177,7 +177,7 @@ export default function IndTreatmentSystems() {
                     <div className="col">
                           <div className="d-flex align-items-center">
                             <div className="pe-2">
-                              <img width={75} height={75} src="/images/icons/plug-play.png" classname="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
+                              <img width={75} height={75} src="/images/icons/plug-play.webp" classname="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
                             </div>
                             <p className="lead w-75 fs-4 text-end mb-0"><b>Plug</b> and play</p>
                           </div>
@@ -185,7 +185,7 @@ export default function IndTreatmentSystems() {
                     <div className="col">
                           <div className="d-flex align-items-center">
                             <div className="pe-2">
-                              <img width={75} height={75} src="/images/icons/savings.png" classname="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
+                              <img width={75} height={75} src="/images/icons/savings.webp" classname="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
                             </div>
                             <p className="lead w-75 fs-4 text-end mb-0"><b>35%</b> savings on Lifecycle costs</p>
                           </div>
@@ -193,7 +193,7 @@ export default function IndTreatmentSystems() {
                                         <div className="col">
                           <div className="d-flex align-items-center">
                             <div className="pe-2">
-                              <img width={75} height={75} src="/images/icons/less-space.png" classname="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
+                              <img width={75} height={75} src="/images/icons/less-space.webp" classname="bg-blur-white p-2 rounded-circle float-start" alt="..."/>
                             </div>
                             <p className="lead w-75 fs-4 text-end mb-0"><b>90%</b> less space requirement</p>
                           </div>

@@ -27,7 +27,7 @@ export default function HomeProductsOld() {
           <div className="col-md-7  d-flex align-items-center">
             <div className="position-sticky pe-md-5 py-md-5 d-flex align-items-center mx-auto" style={{ top: '0px', zIndex: 1010 }}>
               <Image height={0}
-                width={0} alt="Image" className="mx-auto" style={{maxHeight:'calc(60vh - 0px)'}} src="/images/product1.png"/>
+                width={0} alt="Image" className="mx-auto" style={{maxHeight:'calc(60vh - 0px)'}} src="/images/product1.webp"/>
             </div>
           </div>
         </div>
@@ -49,7 +49,7 @@ export default function HomeProductsOld() {
           <div className="col-md-7 d-flex align-items-center">
             <div className="position-sticky pe-md-5 py-md-5 d-flex align-items-center mx-auto" style={{ top: '200px', zIndex: 1010 }}>
                             <Image height={0}
-                width={0} alt="Image" className="mx-auto" style={{maxHeight:'calc(60vh - 0px)'}}  src="/images/product2.png"/>
+                width={0} alt="Image" className="mx-auto" style={{maxHeight:'calc(60vh - 0px)'}}  src="/images/product2.webp"/>
             </div>
           </div>
         </div>
@@ -72,7 +72,7 @@ export default function HomeProductsOld() {
           <div className="col-md-7 d-flex align-items-center">
             <div className="position-sticky pe-md-5 py-md-5 d-flex align-items-center mx-auto" style={{ top: '250px', zIndex: 1010 }}>
               <Image height={0}
-                width={0} alt="Image" className="mx-auto" style={{maxHeight:'calc(60vh - 0px)'}}  src="/images/product3.png"/>
+                width={0} alt="Image" className="mx-auto" style={{maxHeight:'calc(60vh - 0px)'}}  src="/images/product3.webp"/>
             </div>
           </div>
 

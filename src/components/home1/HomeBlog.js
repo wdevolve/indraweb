@@ -13,42 +13,42 @@ export default function HomeBlog() {
     {
       title: 'Top 10 Digital Transformation Trends in 2025',
       excerpt: 'Explore the upcoming trends shaping the digital transformation landscape in 2025, from AI integration to smart automation.',
-      image: '/images/blog1.jpg',
+      image: '/images/blog1.webp',
     },
     {
       title: 'Why Cybersecurity Is a Business Priority',
       excerpt: 'Understand why securing your digital assets is more than an IT concern—it’s essential to your company’s survival.',
-      image: '/images/blog2.jpg',
+      image: '/images/blog2.webp',
     },
     {
       title: 'UX Design Principles That Drive Conversions',
       excerpt: 'Discover how great UX design improves user retention and maximizes conversions across digital products.',
-      image: '/images/blog3.jpg',
+      image: '/images/blog3.webp',
     },
     {
       title: 'How AI Is Changing Healthcare Forever',
       excerpt: 'A deep dive into how artificial intelligence is revolutionizing diagnostics, treatments, and patient care.',
-      image: '/images/blog4.jpg',
+      image: '/images/blog4.webp',
     },
     {
       title: 'Top 10 Digital Transformation Trends in 2025',
       excerpt: 'Explore the upcoming trends shaping the digital transformation landscape in 2025, from AI integration to smart automation.',
-      image: '/images/blog1.jpg',
+      image: '/images/blog1.webp',
     },
     {
       title: 'Why Cybersecurity Is a Business Priority',
       excerpt: 'Understand why securing your digital assets is more than an IT concern—it’s essential to your company’s survival.',
-      image: '/images/blog2.jpg',
+      image: '/images/blog2.webp',
     },
     {
       title: 'UX Design Principles That Drive Conversions',
       excerpt: 'Discover how great UX design improves user retention and maximizes conversions across digital products.',
-      image: '/images/blog3.jpg',
+      image: '/images/blog3.webp',
     },
     {
       title: 'How AI Is Changing Healthcare Forever',
       excerpt: 'A deep dive into how artificial intelligence is revolutionizing diagnostics, treatments, and patient care.',
-      image: '/images/blog4.jpg',
+      image: '/images/blog4.webp',
     },
   ];
 

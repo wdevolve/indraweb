@@ -8,7 +8,7 @@ export default function HomeQuickContact() {
 <section
   className="py-5 text-white"
   style={{
-backgroundImage: `url('/images/quick-contact-bg.jpg')`,
+backgroundImage: `url('/images/quick-contact-bg.webp')`,
   }}
 >
 

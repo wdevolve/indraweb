@@ -115,7 +115,7 @@ export default function ProductsHorizontalScroll() {
                                 <div className="row">
                                   <div className="col-md-6 pe-md-5 anim-zoom">
                                     <Image
-                                      src={`/images/products-bg.jpg`}
+                                      src={`/images/products-bg.webp`}
                                       alt="Media coverage"
                                       width={0}
                                       height={0}
@@ -141,7 +141,7 @@ export default function ProductsHorizontalScroll() {
                     <div className="row">
                       <div className="col-md-6 pe-md-5 anim-zoom anim-zoom">
                         <Image
-                          src={`/images/industries-bg.jpg`}
+                          src={`/images/industries-bg.webp`}
                           alt="Media coverage"
                           width={0}
                           height={0}
@@ -169,7 +169,7 @@ export default function ProductsHorizontalScroll() {
                     <div className="row">
                       <div className="col-md-6 pe-md-5 anim-zoom anim-zoom">
                         <Image
-                          src={`/images/technology-bg.jpg`}
+                          src={`/images/technology-bg.webp`}
                           alt="Media coverage"
                           width={0}
                           height={0}
@@ -195,7 +195,7 @@ export default function ProductsHorizontalScroll() {
                     <div className="row">
                       <div className="col-md-6 pe-md-5 anim-zoom anim-zoom">
                         <Image
-                          src={`/images/projects-bg.jpg`}
+                          src={`/images/projects-bg.webp`}
                           alt="Media coverage"
                           width={0}
                           height={0}
@@ -222,7 +222,7 @@ export default function ProductsHorizontalScroll() {
                     <div className="row">
                       <div className="col-md-6 pe-md-5 anim-zoom anim-zoom">
                         <Image
-                          src={`/images/products-bg.jpg`}
+                          src={`/images/products-bg.webp`}
                           alt="Media coverage"
                           width={0}
                           height={0}
@@ -249,7 +249,7 @@ export default function ProductsHorizontalScroll() {
                     <div className="row">
                       <div className="col-md-6 pe-md-5 anim-zoom anim-zoom">
                         <Image
-                          src={`/images/industries-bg.jpg`}
+                          src={`/images/industries-bg.webp`}
                           alt="Media coverage"
                           width={0}
                           height={0}

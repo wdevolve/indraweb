@@ -94,12 +94,12 @@ transition: all 0.3s ease-in-out;
 }
 
 .line-left::before {
-content: url('/images/v-line.png'); /* your image path here */
+content: url('/images/v-line.webp'); /* your image path here */
   display: inline-block;
   flex-shrink: 0;
 }
 .line-right::before {
-content: url('/images/v-line.png'); /* your image path here */
+content: url('/images/v-line.webp'); /* your image path here */
   display: inline-block;
   flex-shrink: 0;
   transform:scaleX(-1);
@@ -182,7 +182,7 @@ h1.hero-title,.text-grad{
 
 /* 
 .gradient-slide {
-  background-image: url('/images/bg-gradient.png');
+  background-image: url('/images/bg-gradient.webp');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -278,15 +278,15 @@ h1.hero-title,.text-grad{
 
 
 /* .hs-cont-1{
-    background: linear-gradient(to bottom right, #8088D1dd, #268CD6dd, #204A7Ddd), url('/images/bg1.jpg');
+    background: linear-gradient(to bottom right, #8088D1dd, #268CD6dd, #204A7Ddd), url('/images/bg1.webp');
 
 }
 .hs-cont-2{
-    background: linear-gradient(to bottom right, #8088D1dd, #268CD6dd, #204A7Ddd), url('/images/bg2.jpg');
+    background: linear-gradient(to bottom right, #8088D1dd, #268CD6dd, #204A7Ddd), url('/images/bg2.webp');
 
 }
 .hs-cont-3{
-    background: linear-gradient(to bottom right, #8088D1dd, #268CD6dd, #204A7Ddd), url('/images/bg3.jpg');
+    background: linear-gradient(to bottom right, #8088D1dd, #268CD6dd, #204A7Ddd), url('/images/bg3.webp');
  
 } */
 .horizontal-scroll .container {

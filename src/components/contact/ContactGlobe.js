@@ -15,7 +15,7 @@ return (
       position: 'relative',
       width: '100%',
       minHeight: 'calc(100vh + 200px)',
-      backgroundImage: 'url("/images/globe.jpg")',
+      backgroundImage: 'url("/images/globe.webp")',
       backgroundSize: 'cover',
       backgroundPosition: 'center',
       backgroundRepeat: 'no-repeat',
